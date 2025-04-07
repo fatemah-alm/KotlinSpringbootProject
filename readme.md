@@ -1,10 +1,6 @@
 # Coded Academy: Student Submission Guidelines
 
-## 🎓 Welcome to Coded Academy
-
 ## Online Ordering Server
-
-This repository is designed to help students learn, practice, and submit their coding assignments through a structured GitHub workflow.
 
 ## Getting Started
 
